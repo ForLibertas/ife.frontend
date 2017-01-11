@@ -1,2 +1,2 @@
 # ife.frontend
-There're my own practice about baidu's ife.frontend course.
+There's my own practice about baidu's ife.frontend course.

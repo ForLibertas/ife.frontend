@@ -2,37 +2,48 @@
 	margin:0;
 	padding:0;
 }
+body{
+	padding:20px;
+	font-size:15px;
+}
 .bigbox{
-	margin:20px;
 	padding:20px;
 	background:#eee;
 	border:1px solid #999;
+	overflow:auto;
 }
 .leftbox{
 	float:left;
 	padding:20px;
-	width:200px;
+	width:180px;
 	background:white;
 	border:1px solid #999;
 }
-.midbox{
-	padding:20px;
-	margin:0 180px 0 260px;
-	background:white;
-	border:1px solid #999;
+.left-name{
+	padding:0 10px;
+	float:left;	
+	width:100px;
+	height:80px;
+}
+.leftbox span{
+	padding-left:10px;
 }
 .rightbox{
 	float:right;
-	padding:20px;
 	background:white;
-	width:120px;
+	width:140px;
 	border:1px solid #999;
 }
-
-img{
+.rightbox img{
+	display:block;
+	margin:20px;
 	width:100px;
 	height:80px;
 	border:1px solid #999;
 }
-
-
+.midbox{
+	padding:20px;
+	margin:0 160px 0 240px;
+	background:white;
+	border:1px solid #999;
+}

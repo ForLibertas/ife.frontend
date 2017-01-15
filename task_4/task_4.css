@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+}
+#centerbox{
+	position: absolute;
+	width: 400px;
+	height: 200px;
+	background: #ccc;
+	top: 50%;
+	left: 50%;
+	margin: -100px -200px;
+}
+#leftcircle{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background: #fc0;
+	border-radius: 0 0 50px 0;
+}
+#rightcircle{
+	position:absolute;
+	bottom: 0;
+	right:0;
+	width: 50px;
+	height: 50px;
+	background: #fc0;
+	border-radius: 50px 0 0 0;
+}	

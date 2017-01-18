@@ -1,5 +1,5 @@
 # ife.frontend
-There's my own practice about baidu's ife.frontend course.
+My own practices about baidu's ife.frontend course are as follow:
   task_1:零基础HTML编码
   task_2:零基础HTML及CSS编码（一）
   task_3:三栏式布局
